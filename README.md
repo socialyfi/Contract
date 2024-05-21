@@ -1,3 +1,10 @@
+Token Name: SocialyFi
+Token Symbol: SOC
+Token Decimal: 18
+Token Standard: BEP-20
+Token Network : Binance Smart Chain
+
+
 SocialyFi Network is a web3 Social Media Platform that monetize all your social daily acitivities using social token ($SOC) share it with friends, family, and collegues.
 
 
