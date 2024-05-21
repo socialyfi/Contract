@@ -1,7 +1,11 @@
 Token Name: SocialyFi
+
 Token Symbol: SOC
+
 Token Decimal: 18
+
 Token Standard: BEP-20
+
 Token Network : Binance Smart Chain
 
 
